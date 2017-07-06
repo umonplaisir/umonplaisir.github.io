@@ -16,16 +16,15 @@ h2 {
 h3 {
  font-size:32px;
  text-align:center;
- font-family:Georgia
-}
-p {
- color:white;
- font-size:21.5px;
+  font-family: 'Kurale', serif;
 } 
+p {
+   font-size:21.5px;     
+}
 h1 {
  color:white;
  font-size:65px;
- font-family:Georgia;
+ font-family: 'Kurale', serif;
  text-align:center
 }
 body {
