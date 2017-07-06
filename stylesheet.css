@@ -1,0 +1,40 @@
+.water {
+    text-align:center;
+}
+div {
+ background:gray;
+}
+ol {
+ font-size:21.5px;
+}
+h2 {
+ color:white;
+ font-size:40px;
+ font-family: 'Kurale', serif;
+ text-align:center
+}
+h3 {
+ font-size:32px;
+ text-align:center;
+ font-family:Georgia
+}
+p {
+ color:white;
+ font-size:21.5px;
+} 
+h1 {
+ color:white;
+ font-size:65px;
+ font-family:Georgia;
+ text-align:center
+}
+body {
+  background:purple;
+ color:white;
+}
+li {
+ font-size:21.5px;
+}
+h5 {
+    color:gray;
+}
