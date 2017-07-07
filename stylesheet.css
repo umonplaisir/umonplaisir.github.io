@@ -1,5 +1,5 @@
 .water {
-    text-align:center;
+ text-align:center;
 }
 div {
  background:gray;
@@ -19,7 +19,7 @@ h3 {
   font-family: 'Kurale', serif;
 } 
 p {
-   font-size:21.5px;     
+ font-size:21.5px;     
 }
 h1 {
  color:white;
@@ -28,12 +28,12 @@ h1 {
  text-align:center
 }
 body {
-  background:purple;
+ background:purple;
  color:white;
 }
 li {
  font-size:21.5px;
 }
 h5 {
-    color:gray;
+ color:gray;
 }
