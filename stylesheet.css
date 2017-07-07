@@ -5,7 +5,7 @@ div {
  background:gray;
 }
 ol {
- font-size:21.5px;
+ font-size:23.5px;
 }
 h2 {
  color:white;
@@ -19,7 +19,7 @@ h3 {
   font-family: 'Kurale', serif;
 } 
 p {
- font-size:21.5px;     
+ font-size:23.5px;     
 }
 h1 {
  color:white;
@@ -32,8 +32,11 @@ body {
  color:white;
 }
 li {
- font-size:21.5px;
+ font-size:23.5px;
 }
 h5 {
  color:gray;
+}
+ul {
+ font-size: 23.5px;
 }
