@@ -1,6 +1,4 @@
-.water {
- text-align:center;
-}
+
 div {
  background:gray;
 }
@@ -35,7 +33,7 @@ li {
  font-size:23.5px;
 }
 h5 {
- color:gray;
+ color:black;
 }
 ul {
  font-size: 23.5px;
