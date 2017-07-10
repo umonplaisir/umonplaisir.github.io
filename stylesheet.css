@@ -1,6 +1,5 @@
-
 div {
- background:gray;
+ background:	gray;
 }
 ol {
  font-size:23.5px;
@@ -33,7 +32,7 @@ li {
  font-size:23.5px;
 }
 h5 {
- color:black;
+ color:gray;
 }
 ul {
  font-size: 23.5px;
